@@ -23,7 +23,7 @@ title: Changelog
 
 ## Table of Contents
 
-- [3.16.0](#3151)
+- [3.16.0](#3160)
 - [3.15.0](#3150)
 - [3.14.1](#3141)
 - [3.14.0](#3140)
@@ -134,6 +134,7 @@ title: Changelog
 ### Bugfixes
 
 - fix(docker): support valid YAML variations in standalone mode [#12949](https://github.com/apache/apisix/pull/12949)
+- fix(conf): correct AI plugin priority comments in config.yaml.example [#12926](https://github.com/apache/apisix/pull/12926)
 
 ## 3.15.0
 
